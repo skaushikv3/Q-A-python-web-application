@@ -3,13 +3,13 @@
 
 ## Installation
  python package requirments
- '''python
+ ```python
  pip install flask
- '''
+ ```
  from flask import Flask, session, redirect, url_for, request,render_template, jsonify
- '''
+ ```
  pip install sqlite3
- '''
+ ```
  
 ## deployed location
  http://kaushiks.pythonanywhere.com/

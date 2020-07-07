@@ -13,7 +13,7 @@
  import sqlite3 
  ```
  
-## deployed location website(http://kaushiks.pythonanywhere.com/)
+## deployed location [website](http://kaushiks.pythonanywhere.com/)
  
 ## language
  Python 3.7 is the programming language

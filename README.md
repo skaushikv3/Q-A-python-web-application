@@ -12,6 +12,12 @@
  from flask import Flask, session, redirect, url_for, request,render_template, jsonify
  import sqlite3 
  ```
+ user interface requirements (website like to get started)
+ ```
+ [jquery][https://getbootstrap.com/docs/4.3/getting-started/download/]
+ [bootstrap][https://getbootstrap.com/docs/4.3/getting-started/download/]
+ [font-awsome][https://fontawesome.com/v4.7.0/get-started/]
+ ```
  
 ## deployed location [website](http://kaushiks.pythonanywhere.com/)
  

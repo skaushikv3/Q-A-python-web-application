@@ -49,16 +49,22 @@
   c. Answers can be edited / deleted only by the creator.
 ```
 ## programming techenology stack
+```
  Backed programming (server) 
    [Python 3.7](https://www.python.org/) [to get started Tutorial](https://www.w3schools.com/python/default.asp)
+```
+```
  Database (record storage)
    [sqlite3](https://www.sqlite.org/index.html) [to get started Tutorial for SQL](https://www.tutorialspoint.com/sqlite/sqlite_python.htm)
+```
+```
  frontend programming (UI)
    HTML [to get started Tutorial](https://www.w3schools.com/html/)
    CSS [to get started Tutorial](https://www.w3schools.com/css/default.asp)
    BOOTSTRAP 4 [to get started Tutorial][https://www.w3schools.com/bootstrap4/default.asp]
    JQUERY [to get started Tutorial][https://www.w3schools.com/jquery/default.asp]
    JAVASCRIPT [to get started Tutorial](https://www.w3schools.com/js/default.asp)
+```
 ## language
  Python 3.7 is the programming language
 ## database

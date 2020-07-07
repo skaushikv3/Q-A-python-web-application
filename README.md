@@ -64,9 +64,9 @@
    
    CSS [to get started Tutorial](https://www.w3schools.com/css/default.asp)
    
-   BOOTSTRAP 4 [to get started Tutorial][https://www.w3schools.com/bootstrap4/default.asp]
+   BOOTSTRAP 4 [to get started Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
    
-   JQUERY [to get started Tutorial][https://www.w3schools.com/jquery/default.asp]
+   JQUERY [to get started Tutorial](https://www.w3schools.com/jquery/default.asp)
    
    JAVASCRIPT [to get started Tutorial](https://www.w3schools.com/js/default.asp)
 

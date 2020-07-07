@@ -15,7 +15,7 @@
  user interface requirements (website like to get started)
  ```
  HTML
- BOOTSTRAP
+ BOOTSTRAP 4
  JQUERY
  JAVASCRIPT
  CSS

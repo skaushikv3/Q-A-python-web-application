@@ -1,4 +1,4 @@
-# Q-A-python-web-application  [website](http://kaushiks.pythonanywhere.com/)
+# Q-A-python-web-application  ([website](http://kaushiks.pythonanywhere.com/))
  This is Question and answering platform. Users can post question, answer to own and other question. guest users can view to questions. This application uses flask as backend server to run the web page
 
 ## Installation
@@ -59,7 +59,7 @@
 
  ### Database (record storage)
    
-   sqlite3 ([website](https://www.sqlite.org/index.html))([To get started tutorial for SQL](https://www.tutorialspoint.com/sqlite/sqlite_python.htm))
+   sqlite3 ([website](https://www.sqlite.org/index.html))([To get started tutorial](https://www.tutorialspoint.com/sqlite/sqlite_python.htm))
 
  ### frontend programming (UI)
    

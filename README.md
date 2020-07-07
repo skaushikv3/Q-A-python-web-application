@@ -1,5 +1,15 @@
 # Q-A-python-web-application
- This application uses flask as backend server to run the web page
+ This is Question and answering platform. Users can post question, answer to own and other question. guest users can view to questions. This application uses flask as backend server to run the web page
+
+## Installation
+ python package requirments
+ '''python
+ pip install flask
+ '''
+ from flask import Flask, session, redirect, url_for, request,render_template, jsonify
+ '''
+ pip install sqlite3
+ '''
  
 ## deployed location
  http://kaushiks.pythonanywhere.com/

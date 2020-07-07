@@ -19,10 +19,9 @@
  JQUERY
  JAVASCRIPT
  CSS
- FONT-AWSOME
+ FONT-AWESOME
  ```
- 
-## deployed location [website](http://kaushiks.pythonanywhere.com/)
+
  
 ## features
 ```
@@ -56,23 +55,25 @@
 
  ### Backed programming (server) 
    
-   Python 3.7 ([website](https://www.python.org/))([to get started Tutorial](https://www.w3schools.com/python/default.asp))
+   Python 3.7 ([website](https://www.python.org/))([To get started tutorial](https://www.w3schools.com/python/default.asp))
 
  ### Database (record storage)
    
-   sqlite3 ([website](https://www.sqlite.org/index.html))([to get started Tutorial for SQL](https://www.tutorialspoint.com/sqlite/sqlite_python.htm))
+   sqlite3 ([website](https://www.sqlite.org/index.html))([To get started tutorial for SQL](https://www.tutorialspoint.com/sqlite/sqlite_python.htm))
 
  ### frontend programming (UI)
    
-   HTML [to get started Tutorial](https://www.w3schools.com/html/)
+   HTML [To get started tutorial](https://www.w3schools.com/html/)
    
-   CSS [to get started Tutorial](https://www.w3schools.com/css/default.asp)
+   CSS [To get started tutorial](https://www.w3schools.com/css/default.asp)
    
-   BOOTSTRAP 4 [to get started Tutorial](https://www.w3schools.com/bootstrap4/default.asp)
+   BOOTSTRAP 4 [To get started tutorial](https://www.w3schools.com/bootstrap4/default.asp)
    
-   JQUERY [to get started Tutorial](https://www.w3schools.com/jquery/default.asp)
+   JQUERY [To get started tutorial](https://www.w3schools.com/jquery/default.asp)
    
-   JAVASCRIPT [to get started Tutorial](https://www.w3schools.com/js/default.asp)
+   JAVASCRIPT [To get started tutorial](https://www.w3schools.com/js/default.asp)
+   
+   FONT aWESOME [To get started tutorial](https://www.w3schools.com/icons/fontawesome_icons_intro.asp)
 
    
    

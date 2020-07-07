@@ -55,11 +55,11 @@
 
  ### Backed programming (server) 
    
-   Python 3.7 ([website](https://www.python.org/))([To get started tutorial](https://www.w3schools.com/python/default.asp))
+   Python 3.7 ([website](https://www.python.org/)) ([To get started tutorial](https://www.w3schools.com/python/default.asp))
 
  ### Database (record storage)
    
-   sqlite3 ([website](https://www.sqlite.org/index.html))([To get started tutorial](https://www.tutorialspoint.com/sqlite/sqlite_python.htm))
+   sqlite3 ([website](https://www.sqlite.org/index.html)) ([To get started tutorial](https://www.tutorialspoint.com/sqlite/sqlite_python.htm))
 
  ### frontend programming (UI)
    

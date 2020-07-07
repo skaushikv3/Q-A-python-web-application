@@ -1,1 +1,187 @@
+body {
+    padding:7px;
+}
+#searchBar
+    {
+      width: 400px !important;
+    }
+    @media only screen and (max-width: 414px)
+    {
+      #searchBar
+      {
+        width:auto !important;
+      }
+    }
+.enterAnswerField{
+       width:95% !important;
+       display: inline !important; 
+    }
+    @media only screen and (max-width: 768px)
+    {
+      .enterAnswerField
+      {
+        width:82% !important;
+      }
+    }
 
+#userHead {
+    color:white; 
+    font-size: 30px; 
+    border:1px solid white;
+    border-radius:5px;
+    padding:2px;
+}
+#userHead2 { 
+    font-size: 15px; 
+    border:1px solid black;
+    border-radius:5px;
+    padding:3px;
+}
+
+.postCardRow2
+{
+    padding:10px;
+    border-bottom: 1px solid gainsboro;
+}
+.postCardUsername
+{
+    color:blue;
+}
+
+#postClock
+{
+    color:grey;
+}
+#timeOfPost
+{
+    color:grey;
+    font-size:12px;
+}
+#noOfAns
+{
+    color: grey;
+}
+#tagDiv
+{
+    cursor: pointer;
+    color:blue;
+    text-decoration: underline;
+}
+.postCardUsername
+{
+    cursor: pointer;
+}
+#posts
+{
+ border:1px solid gainsboro;
+ border-radius:5px;   
+}
+.questionModal
+{
+    padding:10px;
+    border-bottom: 1px solid gainsboro;
+}
+#postAnswerDiv
+{
+    padding:10px;
+    border-bottom:1px solid gainsboro;
+}
+#postAnswerForm
+{
+    padding:0 !important;
+    margin:0 !important;
+}
+.answerPostButton
+{
+    border-radius: 50%;
+    padding: 7px !important;
+}
+#answers
+{
+    padding: 10px;   
+}
+
+.answerPost
+{
+    padding:10px;
+    border:1px solid gainsboro;
+    border-radius: 5px;
+        
+}
+.dropdown-menu
+{
+    padding: 0 !important;
+}
+.dropdown-menu li a
+{
+    text-decoration: none;
+    color:black;
+}
+.dropdown-menu li
+{
+    padding:5px;
+}
+.dropdown-menu li:hover
+{
+    background-color: gainsboro;
+}
+
+
+
+.login-container{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.login-form-1{
+    padding: 5%;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-1 h3{
+    text-align: center;
+    color: #333;
+}
+.login-form-2{
+    padding: 5%;
+    background: #0062cc;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+.login-form-2 h3{
+    text-align: center;
+    color: #fff;
+}
+.login-container form{
+    padding: 10%;
+}
+.btnSubmit
+{
+    width: 50%;
+    border-radius: 1rem;
+    padding: 1.5%;
+    border: none;
+    cursor: pointer;
+    margin-left: 25%;
+}
+.login-form-1 .btnSubmit{
+    font-weight: 600;
+    color: #fff;
+    background-color: #0062cc;
+}
+.login-form-2 .btnSubmit{
+    font-weight: 600;
+    color: #0062cc;
+    background-color: #fff;
+}
+.login-form-2 .ForgetPwd{
+    width: 50%;
+    color: #fff;
+    font-weight: 600;
+    text-decoration: none;
+    margin-left:25%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

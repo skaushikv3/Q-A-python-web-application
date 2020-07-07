@@ -52,7 +52,7 @@
 
  ### Backed programming (server) 
    
-   Python 3.7 [website](https://www.python.org/) [to get started Tutorial](https://www.w3schools.com/python/default.asp)
+   Python 3.7 ([website](https://www.python.org/))( [to get started Tutorial](https://www.w3schools.com/python/default.asp))
 
  ### Database (record storage)
    

@@ -5,12 +5,11 @@
  python package requirments
  ```python
  pip install flask
- (in code)
- from flask import Flask, session, redirect, url_for, request,render_template, jsonify
- ```
- ```
  pip install sqlite3
+ ```
  (in code)
+ ```
+ from flask import Flask, session, redirect, url_for, request,render_template, jsonify
  import sqlite3 
  ```
  
